@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "mangat";
+    src: url(../fonts/mangat.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: mangat, mangatb, mangati;
+}
